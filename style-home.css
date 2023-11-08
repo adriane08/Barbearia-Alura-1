@@ -3,7 +3,7 @@
 }
 
 .principal{
-	background: #4682B4;
+	background: #83abb8;
 	padding: 30px;
 }
 
@@ -24,7 +24,7 @@ p {
 }
 
 em strong {
-	color: #FFFF00;
+	color: #00eeff;
 }
 
 .itens {
@@ -32,7 +32,7 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFF00;
+	background: #007bff;
 	padding: 20px;
 }
 
