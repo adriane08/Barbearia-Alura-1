@@ -1,5 +1,5 @@
 header {
-	background: #097083;
+	background: #041101;
 	padding: 20px 0;
 }
 
@@ -22,7 +22,7 @@ nav li {
 
 nav a {
 	text-transform: uppercase;
-	color: #000000;
+	color: hsl(0, 100%, 98%)0%, 100%);
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
@@ -145,6 +145,13 @@ thead {
 }
 
 td, th {
-	border: 1px solid #000000;
+	border: 1px solid #fffafa;
 	padding: 8px 15px;
+}
+
+h1{
+	
+	font-size: 30px;
+font-weight: bold;
+margin-left: 50px
 }
