@@ -1,5 +1,5 @@
 :root{
-	--cor-de-fundo: #041101;
+	--cor-de-fundo: #000000;
 	--cor-da-fonte: #FFFFFF;
 }
 
@@ -28,13 +28,12 @@ nav li {
 	margin: 0 0 0 15px;
 }
 
-/**nav a {
+li a {
 	text-transform: uppercase;
-	color: hsl(0, 100%, 98%)0%, 100%);
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
-}**/
+}
 
 nav a:hover {
 	color: #C78C19;
